@@ -1,0 +1,29 @@
+.darkbar {
+    margin-top: 40px;
+    height: 20px;
+    display: inline-block;
+    background-color: darkblue;
+}
+
+.right {
+    float: right;
+    display: inline-block;
+    background-color: darkblue;
+    color: red;
+
+}
+
+.left {
+    float: left;
+    display: inline-block;
+
+}
+
+a:link {
+    color: black;
+    background-color: black;
+}
+
+a {
+    color: black;
+}
