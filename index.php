@@ -1,1 +1,1 @@
-<?php require('items_list.php'); ?>
+<?php require('products_list.php'); ?>
